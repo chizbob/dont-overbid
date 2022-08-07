@@ -22,3 +22,7 @@ Requirement: Python 3.8, sklearn, numpy, pandas, matplot, seaborn, jupyter lab
 7. Apply prediction on testing. Find the stats such as pearsonr and residuals 
 8. Visualize the residuals (differential between actual and prediction)
 9. Try the house I consider to this model and see the predicted price
+
+
+
+Data source: https://www.redfin.com/
